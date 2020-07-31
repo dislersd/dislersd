@@ -3,8 +3,8 @@
 I'm a **full-stack software developer** and **Javascript nerd** who loves to **collaborate** with others.
 
 - 👨‍💻 I’m currently mentoring [Lambda School](https://lambdaschool.com/) students and building web apps.
-- 🌱 I’m currently learning Spring Boot.
-- 👯 I’m looking to collaborate on Spring Boot/React Applications.
+- 🌱 I’m currently learning Typescript.
+- 👯 I’m looking to collaborate on React/Node.js Applications.
 - 💬 Ask me about Lambda School.
 - 📫 How to reach me: @dislersd
 - 😄 Pronouns: He/Him/His
